@@ -3,11 +3,13 @@ import Footer from "./Footer/Footer";
 import Container from "./container/Container";
 import Logo from '../components/Logo.jsx'
 import LogoutBtn from "./Header/LogoutBtn";
+import RTE from "./RTE";
 
 export{
     Header,
     Footer,
     Container,
     Logo,
-    LogoutBtn
+    LogoutBtn,
+    RTE
 }
